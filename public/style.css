@@ -1,0 +1,64 @@
+.footer {
+    background-color: #59c489;
+    padding-block: 2rem;
+    justify-content: center;
+}
+
+.footer div {
+    margin-inline: 2rem;
+}
+.footer div:hover {
+    cursor: pointer;
+}
+
+.copy-right {
+    text-align: center;
+    padding-block-start: 0.5rem;
+    padding-block-end: 0.8rem;
+    color: black;
+    background-color: #59c48991;
+}
+
+.bg-color {
+    background-color: #59c48991;
+    color: black;
+    padding-block: 0.3rem;
+}
+
+.size-s {
+    font-size: 20px;
+}
+
+.bg-welcome {
+    background-color: #aeffd26c;
+    padding: 1rem;
+}
+
+.img-welcome {
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.img-welcome img {
+    border-radius: 25px;
+}
+
+.card-img {
+    height: 12rem;
+    object-fit: cover;
+}
+
+.logo {
+    width: 5rem;
+    padding: 0rem;
+}
+
+.index-img {
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+}
+
+.card-index:hover {
+    box-shadow: 10px 10px 10px #dededeb7;
+}
